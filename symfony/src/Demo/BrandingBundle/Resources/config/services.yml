@@ -1,0 +1,7 @@
+parameters:
+#    demo_branding.example.class: Demo\BrandingBundle\Example
+
+services:
+#    demo_branding.example:
+#        class: %demo_branding.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

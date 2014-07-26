@@ -1,0 +1,6 @@
+demo_branding_homepage:
+    path:     /branding/{key}
+    defaults: { _controller: DemoBrandingBundle:Default:index }
+demo_branding_missing:
+    path:     /branding/
+    defaults: { _controller: DemoBrandingBundle:Default:missing }
